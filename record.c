@@ -29,9 +29,9 @@ git config --global user.name "xxx"
 git config --global user.email "xxx@163.com"
 
 添加远程仓库
-git remote add origin git@github.com:ccoktial/xxx.git
+git remote add origin git@github.com:username/xxx.git
 删除关联
-git remote rm origin git@github.com:ccoktail/xxx.git
+git remote rm origin git@github.com:username/xxx.git
 
 查看命令
 git status
